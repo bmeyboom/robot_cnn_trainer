@@ -1,2 +1,2 @@
 # robot_cnn_trainer
-This was the CNN trainer designed for our ENPH 353 robot competition.
+This was the CNN trainer designed for our ENPH 353 robot competition in April 2021.
